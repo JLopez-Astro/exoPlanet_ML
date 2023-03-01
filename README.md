@@ -8,6 +8,6 @@ Kepler Candidate Planets: 2054
 Kepler False Positive Planets: 4839
 
 Two datasets:
-- Kepler dataset for supervised classification <
-- Confirmed Exoplanets dataset for unsupervised clustering <
+- Kepler dataset for supervised classification
+- Confirmed Exoplanets dataset for unsupervised clustering
 
